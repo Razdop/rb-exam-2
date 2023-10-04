@@ -1,0 +1,1034 @@
+{"level":30,"time":"2023-10-04T08:55:06.756Z","pid":23860,"hostname":"OB43","msg":"Listening on 65264"}
+{"level":30,"time":"2023-10-04T08:55:07.067Z","pid":23860,"hostname":"OB43","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-10-04T08:55:08.035Z","pid":23860,"hostname":"OB43","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-10-04T08:55:08.050Z","pid":23860,"hostname":"OB43","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-10-04T08:55:08.051Z","pid":23860,"hostname":"OB43","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-10-04T08:55:08.097Z","pid":23860,"hostname":"OB43","msg":"Changed active context"}
+{"level":30,"time":"2023-10-04T08:55:08.428Z","pid":23860,"hostname":"OB43","msg":"Video path: undefined"}
+{"level":30,"time":"2023-10-04T08:55:08.428Z","pid":23860,"hostname":"OB43","msg":"Changed active page"}
+{"level":30,"time":"2023-10-04T08:55:08.472Z","pid":23860,"hostname":"OB43","msg":"End of node method newPage"}
+{"level":30,"time":"2023-10-04T08:55:08.485Z","pid":23860,"hostname":"OB43","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-10-04T08:55:09.101Z","pid":23860,"hostname":"OB43","msg":"End of node method goTo"}
+{"level":30,"time":"2023-10-04T08:55:09.112Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:09.114Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:55:09.724Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:10.608Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:55:10.608Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:55:10.688Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:55:10.689Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:55:10.689Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:55:10.699Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:55:10.700Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"2\"] in page."}
+{"level":30,"time":"2023-10-04T08:55:10.774Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:55:10.783Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:10.783Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:55:10.825Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:10.837Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:10.837Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:55:10.875Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:10.885Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:10.885Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:55:11.023Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:11.035Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:11.035Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:55:11.073Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:55:11.073Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:11.083Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:11.083Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:55:11.174Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:11.183Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:11.184Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:55:21.194Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:55:21.195Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:55:21.280Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:21.280Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:55:21.324Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:55:11.152Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-5GUVW6O0KO</p><p>Address 123</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:55:21.325Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:22.907Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:55:22.908Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:55:22.909Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:55:22.909Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:55:23.225Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:55:23.937Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:23.938Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:55:24.096Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:24.107Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:24.107Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:55:24.288Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:24.298Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:55:24.299Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:55:24.402Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:55:24.402Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:55:24.402Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:55:24.412Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:55:24.412Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"1\"] in page."}
+{"level":30,"time":"2023-10-04T08:55:24.537Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:55:24.545Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:24.546Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:55:24.590Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:24.604Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:24.604Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:55:24.660Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:24.672Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:24.672Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:55:24.823Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:24.835Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:24.835Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:55:24.880Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:55:24.881Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:24.891Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:24.891Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:55:25.055Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:25.067Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:25.068Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:55:35.070Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:55:35.071Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:55:35.126Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:35.126Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:55:35.147Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:55:25.036Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-LQP9ORT5KB</p><p>Address 456</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:55:35.147Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:36.518Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:55:36.518Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\2.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:55:36.518Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:55:36.518Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:55:36.717Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:55:37.181Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:37.181Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:55:37.299Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:37.305Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:37.305Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:55:37.420Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:37.428Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:55:37.428Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:55:37.488Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:55:37.488Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:55:37.488Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:55:37.499Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:55:37.499Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"2\"] in page."}
+{"level":30,"time":"2023-10-04T08:55:37.573Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:55:37.583Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:37.583Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:55:37.620Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:37.630Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:37.630Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:55:37.671Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:37.682Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:37.682Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:55:37.777Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:37.786Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:37.786Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:55:47.794Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:55:47.794Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:55:47.848Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:47.849Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:55:47.870Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:55:37.753Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-P3KY9KHC1K</p><p>Address 789</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 2</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:55:47.870Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:49.151Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:55:49.151Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\3.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:55:49.151Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:55:49.151Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:55:49.364Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:55:49.926Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:49.926Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:55:50.063Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:50.071Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:50.071Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:55:50.230Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:50.237Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:55:50.238Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:55:50.311Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:55:50.311Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:55:50.311Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:55:50.324Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:55:50.325Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"3\"] in page."}
+{"level":30,"time":"2023-10-04T08:55:50.404Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:55:50.413Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:50.413Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:55:50.448Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:50.455Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:50.456Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:55:50.502Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:55:50.513Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:55:50.514Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:55:50.601Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:55:50.610Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:55:50.610Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:56:00.625Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:56:00.625Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:56:00.679Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:00.679Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:56:00.704Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:55:50.581Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-PNUPCD7OP5</p><p>Address 1</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:56:00.704Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:02.026Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:02.026Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\4.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:56:02.026Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:56:02.026Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:56:02.212Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:02.733Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:02.733Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:56:02.845Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:02.852Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:02.852Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:56:02.971Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:02.980Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:02.980Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:56:03.048Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:56:03.048Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:03.048Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:56:03.057Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:03.057Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"5\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:03.135Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:03.145Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:03.145Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:03.180Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:03.189Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:03.190Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:56:03.232Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:03.242Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:03.242Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:03.333Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:03.342Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:03.342Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:56:13.344Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:56:13.344Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:56:13.401Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:13.401Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:56:13.423Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:56:03.315Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-6MQ96N9SD</p><p>Address 2</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:56:13.423Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:14.729Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:14.729Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\5.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:56:14.729Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:56:14.729Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:56:14.926Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:15.430Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:15.430Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:56:15.560Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:15.569Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:15.569Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:56:15.682Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:15.692Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:15.692Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:56:15.746Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:56:15.746Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:15.746Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:56:15.756Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:15.756Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"6\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:15.812Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:15.820Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:15.820Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:15.860Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:15.867Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:15.867Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:56:15.910Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:15.918Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:15.918Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:15.999Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:16.009Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:16.009Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:56:26.016Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:56:26.016Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:56:26.072Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:26.072Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:56:26.093Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:56:15.979Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-W6Z2BRGR3E</p><p>Address 3</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 6</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:56:26.093Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:27.407Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:27.407Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\6.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:56:27.407Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:56:27.407Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:56:27.576Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:27.995Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:27.996Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:56:28.123Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.130Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.130Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:56:28.248Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.257Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:28.257Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:56:28.317Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:56:28.317Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:28.317Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:56:28.325Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:28.325Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"1\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:28.390Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:28.398Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:28.398Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:28.439Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:28.445Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:28.445Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:56:28.489Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:28.495Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.496Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:28.590Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.600Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:28.600Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:28.623Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:56:28.623Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:28.630Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.631Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:28.693Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.702Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:28.702Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:28.724Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:56:28.724Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:28.732Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.732Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:28.817Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:28.825Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:28.825Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:56:38.835Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:56:38.835Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:56:38.895Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:38.896Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:56:38.916Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:56:28.801Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-IOOLD9UA1</p><p>Address 4</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:56:38.916Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:40.271Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:40.271Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\7.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:56:40.271Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:56:40.271Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:56:40.461Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:40.938Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:40.939Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:56:41.065Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:41.073Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:41.073Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:56:41.205Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:41.213Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:41.214Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:56:41.271Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:56:41.271Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:41.271Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:56:41.281Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:41.281Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"3\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:41.342Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:41.352Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:41.353Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:41.394Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:41.404Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:41.404Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:56:41.455Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:41.464Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:41.464Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:41.574Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:41.584Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:41.584Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:56:51.599Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:56:51.599Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:56:51.658Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:51.659Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:56:51.681Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:56:41.543Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-3373IWY9LH</p><p>Address 5</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:56:51.682Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:52.936Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:52.936Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\8.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:56:52.936Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:56:52.936Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:56:53.134Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:56:53.705Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:53.705Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:56:53.871Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:53.879Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:53.879Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:56:53.996Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:54.003Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:54.004Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:56:54.076Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:56:54.076Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:56:54.076Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:56:54.085Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:54.085Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"2\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:54.153Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:56:54.161Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:54.162Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:56:54.200Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:54.207Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:54.207Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:56:54.252Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:56:54.261Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:54.261Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:54.343Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:54.354Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:54.354Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:54.403Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:56:54.403Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:54.412Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:54.412Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:54.489Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:54.499Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:54.499Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:54.520Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:56:54.520Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:54.527Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:56:54.528Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:56:54.618Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:56:54.624Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:56:54.624Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:57:04.628Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:57:04.628Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:57:04.677Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:04.677Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:57:04.696Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:56:54.603Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-5K8KBHVZN</p><p>Address 6</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:57:04.696Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:06.021Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:06.021Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\9.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:57:06.021Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:57:06.021Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:57:06.254Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:06.868Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:06.869Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:57:06.981Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:06.987Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:06.987Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:57:07.116Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:07.123Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:07.123Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:57:07.185Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:57:07.185Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:07.185Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:57:07.194Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:07.194Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"4\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:07.251Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:07.259Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:07.259Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:07.295Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:07.301Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:07.301Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:57:07.335Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:07.344Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:07.344Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:57:07.419Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:07.428Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:07.428Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:57:17.442Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:57:17.442Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:57:17.494Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:17.494Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:57:17.509Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:57:07.401Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-UWNU7ZW37A</p><p>Address 7</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 4</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:57:17.510Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:18.720Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:18.720Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\10.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:57:18.720Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:57:18.720Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:57:18.867Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:19.263Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:19.263Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:57:19.379Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:19.386Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:19.386Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:57:19.461Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:19.470Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:19.470Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:57:19.522Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:57:19.523Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:19.523Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:57:19.528Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:19.528Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"6\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:19.569Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:19.575Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:19.575Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:19.600Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:19.606Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:19.606Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:57:19.629Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:19.634Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:19.634Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:57:19.705Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:19.711Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:19.711Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:57:29.716Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:57:29.716Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:57:29.758Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:29.758Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:57:29.774Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:57:19.689Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-NQV0Z1F99H</p><p>Address 8</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 6</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:57:29.774Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:31.003Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:31.003Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\11.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:57:31.004Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:57:31.003Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:57:31.148Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:31.556Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:31.556Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:57:31.652Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:31.658Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:31.658Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:57:31.751Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:31.757Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:31.757Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:57:31.800Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:57:31.800Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:31.800Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:57:31.807Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:31.807Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"3\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:31.849Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:31.855Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:31.855Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:31.878Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:31.884Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:31.885Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:57:31.908Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:31.914Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:31.914Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:57:31.980Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:31.986Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:31.986Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:57:32.004Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:57:32.004Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:32.010Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:32.010Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:57:32.071Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:32.078Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:32.078Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:57:42.088Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:57:42.089Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:57:42.139Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:42.140Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:57:42.152Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:57:32.063Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-H7MKQIJ27N</p><p>Address 9</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 3</div><div>Legs: 3</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:57:42.152Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:43.351Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:43.351Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\12.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:57:43.351Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:57:43.351Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:57:43.506Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:44.073Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:44.074Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:57:44.180Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:44.188Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:44.188Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:57:44.290Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:44.297Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:44.298Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:57:44.354Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:57:44.354Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:44.354Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:57:44.360Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:44.360Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"5\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:44.421Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:44.427Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:44.428Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:44.460Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:44.467Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:44.467Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:57:44.549Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:44.557Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:44.557Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:57:44.653Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:44.663Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:44.664Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:57:54.671Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:57:54.671Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:57:54.716Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:54.716Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:57:54.732Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:57:44.625Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-DXT0HYWT5</p><p>Address A</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 5</div><div>Legs: 4</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:57:54.732Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:55.970Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:55.971Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\13.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:57:55.971Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:57:55.971Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:57:56.131Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:57:56.539Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:56.539Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:57:56.631Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:56.638Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:56.638Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:57:56.730Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:56.735Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:56.736Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:57:56.778Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:57:56.778Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:57:56.778Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:57:56.784Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:56.784Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"1\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:56.826Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:57:56.833Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:56.833Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:57:56.856Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:56.861Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:56.862Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:57:56.886Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:57:56.891Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:57:56.891Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:57:56.966Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:57:56.972Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:57:56.972Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:58:06.979Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:58:06.979Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:58:07.028Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:07.028Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:58:07.041Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:57:56.947Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-1RA9SLPS52</p><p>Address B</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:58:07.042Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:08.252Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:08.252Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\14.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:58:08.253Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:58:08.253Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:58:08.401Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:08.877Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:08.877Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:58:08.963Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:08.969Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:08.969Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:58:09.059Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:09.066Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:09.066Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:58:09.111Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:58:09.111Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:09.111Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:58:09.117Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:09.117Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"2\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:09.158Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:09.164Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:09.164Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:09.188Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:09.196Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:09.196Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:58:09.219Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:09.225Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:09.225Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:09.299Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:09.308Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:09.308Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:09.322Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:58:09.322Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:09.330Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:09.330Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:09.381Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:09.387Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:09.387Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:58:19.391Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:58:19.391Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:58:19.434Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:19.434Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:58:19.448Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:58:09.372Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-65GOM8LLL</p><p>Address C</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 3</div><div>Body: 2</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:58:19.448Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:20.650Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:20.650Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\15.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:58:20.650Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:58:20.650Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:58:20.817Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:21.309Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:21.309Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:58:21.414Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:21.420Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:21.420Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:58:21.523Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:21.529Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:21.529Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:58:21.575Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:58:21.575Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:21.575Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:58:21.581Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:21.581Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"3\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:21.621Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:21.627Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:21.627Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:21.650Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:21.658Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:21.658Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:58:21.692Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:21.699Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:21.699Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:21.776Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:21.782Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:21.782Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:58:31.789Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:58:31.789Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:58:31.842Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:31.842Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:58:31.861Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:58:21.759Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-D9609PVVR9</p><p>Address D</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 6</div><div>Body: 3</div><div>Legs: 6</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:58:31.862Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:33.146Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:33.146Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\16.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:58:33.146Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:58:33.146Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:58:33.359Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:33.843Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:33.843Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:58:33.960Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:33.966Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:33.966Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:58:34.063Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:34.071Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:34.071Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:58:34.130Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:58:34.130Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:34.130Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:58:34.139Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:34.139Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"4\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:34.199Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:34.209Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:34.209Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:34.246Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:34.253Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:34.253Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:58:34.295Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:34.302Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:34.303Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:34.402Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:34.412Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:34.413Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:58:44.428Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:58:44.429Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:58:44.490Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:44.490Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:58:44.508Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:58:34.381Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-9J8VMQ7VU9</p><p>Address E</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 5</div><div>Body: 4</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:58:44.508Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:45.811Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:45.811Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\17.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:58:45.811Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:58:45.811Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:58:45.988Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:46.441Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:46.441Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:58:46.555Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:46.561Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:46.561Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:58:46.677Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:46.685Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:46.686Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:58:46.745Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:58:46.746Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:46.746Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:58:46.755Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:46.755Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"5\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:46.811Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:46.819Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:46.819Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:46.860Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:46.869Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:46.869Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:58:46.911Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:46.920Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:46.920Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:47.024Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:47.035Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:47.036Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:58:57.044Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:58:57.046Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:58:57.106Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:57.106Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:58:57.124Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:58:46.997Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-DL9OGX78WS</p><p>Address F</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 2</div><div>Body: 5</div><div>Legs: 1</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:58:57.124Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:58.440Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:58.441Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\18.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:58:58.441Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:58:58.441Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:58:58.624Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:58:59.100Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:59.100Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:58:59.223Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:59.230Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:59.230Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:58:59.342Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:59.350Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:59.350Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:58:59.411Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:58:59.411Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:58:59.411Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:58:59.420Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:59.420Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"6\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:59.474Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:58:59.482Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:59.482Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:58:59.512Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:59.523Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:59.523Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:58:59.563Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:58:59.575Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:59.575Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:59.661Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:59.673Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:59.673Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:59.695Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:58:59.695Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:59.706Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:58:59.706Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:58:59.784Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:58:59.793Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:58:59.793Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:59:09.806Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:59:09.807Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:59:09.868Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:09.868Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:59:09.885Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:58:59.769Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-9C1G7NZE3S</p><p>Address G</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 4</div><div>Body: 6</div><div>Legs: 2</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:59:09.885Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:11.273Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:59:11.273Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\19.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:59:11.273Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:59:11.273Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:59:11.456Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:59:11.865Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:59:11.866Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:59:12.001Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.007Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.007Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:59:12.112Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.120Z","pid":23860,"hostname":"OB43","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:59:12.120Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #head in page."}
+{"level":30,"time":"2023-10-04T08:59:12.182Z","pid":23860,"hostname":"OB43","msg":"Option entries: 7"}
+{"level":30,"time":"2023-10-04T08:59:12.183Z","pid":23860,"hostname":"OB43","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-10-04T08:59:12.183Z","pid":23860,"hostname":"OB43","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-10-04T08:59:12.189Z","pid":23860,"hostname":"OB43","msg":"Start of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:59:12.189Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[name=\"body\"][value=\"1\"] in page."}
+{"level":30,"time":"2023-10-04T08:59:12.257Z","pid":23860,"hostname":"OB43","msg":"End of node method checkCheckbox"}
+{"level":30,"time":"2023-10-04T08:59:12.265Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:59:12.265Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with input[placeholder=\"Enter the part number for the legs\"] in page."}
+{"level":30,"time":"2023-10-04T08:59:12.305Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:59:12.314Z","pid":23860,"hostname":"OB43","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-10-04T08:59:12.314Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #address in page."}
+{"level":30,"time":"2023-10-04T08:59:12.356Z","pid":23860,"hostname":"OB43","msg":"End of node method fillText"}
+{"level":30,"time":"2023-10-04T08:59:12.366Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.366Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:59:12.474Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.482Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:12.483Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:59:12.509Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:59:12.509Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:12.521Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.521Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:59:12.615Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.622Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:12.623Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:59:12.647Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order containing <button id=\"order\" type=\"submit\" class=\"btn btn-primary\">Order</button>"}
+{"level":30,"time":"2023-10-04T08:59:12.647Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:12.654Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.655Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":30,"time":"2023-10-04T08:59:12.725Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:59:12.735Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:12.735Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order in page."}
+{"level":50,"time":"2023-10-04T08:59:22.744Z","pid":23860,"hostname":"OB43","err":{"type":"TimeoutError","message":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================","stack":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================\n    at getProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8820:43)\n    at async getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:8782:19)\n    at async PlaywrightServer.getDomProperty (c:\\ProgramData\\robocorp\\ht\\3c17286_b1f3c24_6133770e\\lib\\site-packages\\Browser\\wrapper\\index.js:10006:28)","name":"TimeoutError"},"msg":"locator.elementHandle: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('#order')\n============================================================"}
+{"level":30,"time":"2023-10-04T08:59:22.744Z","pid":23860,"hostname":"OB43","msg":"Error of node method  getDomProperty"}
+================= Original suppressed error =================
+locator.elementHandle: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#order')
+============================================================
+    at getProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8820:43)
+    at async getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:8782:19)
+    at async PlaywrightServer.getDomProperty (c:\ProgramData\robocorp\ht\3c17286_b1f3c24_6133770e\lib\site-packages\Browser\wrapper\index.js:10006:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2023-10-04T08:59:22.794Z","pid":23860,"hostname":"OB43","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:22.795Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-completion in page."}
+{"level":30,"time":"2023-10-04T08:59:22.810Z","pid":23860,"hostname":"OB43","msg":"Retrieved dom property for element #order-completion containing <div id=\"order-completion\"><div id=\"receipt\" class=\"alert alert-success\" role=\"alert\"><h3>Receipt</h3><div>2023-10-04T08:59:12.711Z</div><p class=\"badge badge-success\">RSB-ROBO-ORDER-8QWS29TCJ</p><p>Address H</p><div id=\"parts\" class=\"alert alert-light\" role=\"alert\"><div>Head: 1</div><div>Body: 1</div><div>Legs: 5</div></div><p>Thank you for your order! We will ship your robot to you as soon as our warehouse robots gather the parts you ordered! You will receive your robot in no time!</p></div><button id=\"order-another\" type=\"submit\" class=\"btn btn-primary\">Order another robot</button></div>"}
+{"level":30,"time":"2023-10-04T08:59:22.810Z","pid":23860,"hostname":"OB43","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-10-04T08:59:24.065Z","pid":23860,"hostname":"OB43","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:59:24.065Z","pid":23860,"hostname":"OB43","Take screenshot with options: ":{"path":"C:\\Users\\nconte.ATG\\Desktop\\Progetti\\Robocorp\\my-rsb-robot-2\\output\\screenshots\\20.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-10-04T08:59:24.065Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #robot-preview in page."}
+{"level":30,"time":"2023-10-04T08:59:24.065Z","pid":23860,"hostname":"OB43","Using selecotr: ":"#robot-preview"}
+{"level":30,"time":"2023-10-04T08:59:24.234Z","pid":23860,"hostname":"OB43","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-10-04T08:59:24.662Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:59:24.662Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with #order-another in page."}
+{"level":30,"time":"2023-10-04T08:59:24.766Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:59:24.771Z","pid":23860,"hostname":"OB43","msg":"Start of node method click"}
+{"level":30,"time":"2023-10-04T08:59:24.771Z","pid":23860,"hostname":"OB43","msg":"Strict mode is enabled, find Locator with button.btn-warning:text('Yep') in page."}
+{"level":30,"time":"2023-10-04T08:59:24.872Z","pid":23860,"hostname":"OB43","msg":"End of node method click"}
+{"level":30,"time":"2023-10-04T08:59:25.930Z","pid":23860,"hostname":"OB43","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-10-04T08:59:25.958Z","pid":23860,"hostname":"OB43","msg":"Removed page=022981fb-4bfb-4357-9f16-6f4301e9f871 from context=648c18d9-1ef2-4b69-bfef-a0cc06291f85 page stack"}
+{"level":30,"time":"2023-10-04T08:59:26.252Z","pid":23860,"hostname":"OB43","msg":"End of node method closeAllBrowsers"}
